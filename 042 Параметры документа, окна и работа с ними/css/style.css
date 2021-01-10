@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+}
+
+
+
+
+.lorem {
+	width: 400px;
+
+	height: 500px;
+	left: 50%;
+	transform: translateX(-50%);
+overflow: scroll;
+text-align: center;
+position: relative;
+}
+
+
+button {
+	margin-top: 50px;
+}
